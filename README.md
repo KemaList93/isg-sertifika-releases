@@ -80,7 +80,7 @@ https://api.github.com/repos/KemaList93/isg-sertifika-releases/releases/latest
 Installer SHA256 değeri:
 
 ```text
-5507355353F3534A2BFA173FA29F4BEC6C02745934E62730C5CC7D5019E3DC30
+38EA8D15D33B986891C830B2362E3AD8E243D27450D27DC79612B3E58C963663
 ```
 
 PowerShell ile manuel kontrol:
@@ -116,5 +116,6 @@ Bu public repository uygulamanın kaynak kodunu içermez. Yalnızca installer, d
 Tüm teknik sorunlar ve destek talepleri için:
 
 kemalsogut@koruyucu.com.tr
+
 
 
