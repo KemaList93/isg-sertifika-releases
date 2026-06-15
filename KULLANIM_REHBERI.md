@@ -93,3 +93,10 @@ Bir sorun bildirirken şu bilgileri hazır bulundurun:
 - Hata ekranı veya mesajı
 - Yapmaya çalıştığınız işlem
 - Varsa log dosyasından ilgili zaman aralığı
+
+## 12. Teknik Destek
+
+Tüm teknik sorunlar ve destek talepleri için:
+
+kemalsogut@koruyucu.com.tr
+

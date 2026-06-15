@@ -110,3 +110,10 @@ Release assetleri:
 ## Güvenlik Notu
 
 Bu public repository uygulamanın kaynak kodunu içermez. Yalnızca installer, doğrulama dosyaları ve kullanıcı rehberleri yayınlanır.
+
+## Teknik Destek
+
+Tüm teknik sorunlar ve destek talepleri için:
+
+kemalsogut@koruyucu.com.tr
+
